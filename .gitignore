@@ -1,0 +1,41 @@
+### Flutter ###
+# Android related files
+android/key.properties
+
+# Build files
+android/app/build/.*
+android/build/.*
+ios/Flutter/build/.*
+build/
+.dart_tool/
+
+# IntelliJ related files
+*.iml
+.idea/
+
+# VSCode related files
+.vscode/
+
+# Other files
+*.log
+.DS_Store
+
+# Dependencies cache
+.packages
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Gradle files
+android/gradlew*
+android/gradle/wrapper/gradle-wrapper.jar
+
+# Local properties
+android/local.properties
+
+# CocoaPods files
+ios/Podfile.lock
+ios/Pods/
+
+# Crashlytics
+crashlytics.properties
